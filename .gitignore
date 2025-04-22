@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python bytecode cache
+__pycache__/
+
+# Environment variables
+.env
+
+# SQLite DB (optional - keep if not needed on GitHub)
+*.db
+
+# OS system files
+.DS_Store
+Thumbs.db
